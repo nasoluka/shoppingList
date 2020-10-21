@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nasoluka/shoppingList/issues"
   },
-  "homepage": "https://github.com/nasoluka/shoppingList#readme"
+  "homepage": "https://github.com/nasoluka/shoppingList#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
